@@ -101,4 +101,28 @@ So to trade styles with a friend, [I give you this example to play with](https:/
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-LIx9DN)
 
 
+## Genuary 7 - Sol Lewitt Wall Painting
+The rules for this one are very simple:
+
+```On a wall surface, any
+continuous stretch of wall,
+using a hard pencil, place
+fifty points at random.
+The points should be evenly
+distributed over the area
+of the wall. All of the
+points should be connected
+by straight lines
+```
+
+Originally I messed this up by not evenly distributing my points.   The technique I went for in the end was to use the equation of a circle to distribute the points evenly across the screen.  But when I did that, I got a shape with no criss-crosses.  So I multiplied the end point by 1, 0, or -1 to get the points to flip at random.  Is it art?  Mine is definitely not.  But I was glad to have had the Extra Math category to help out with this one.  
+
+Although perhaps we need exponents!
+
+
+![Genuary 7](./genuary-7.png?raw=true)
+
+
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-CUeGJB)
+
 
