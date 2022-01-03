@@ -32,5 +32,7 @@ Cause the challenge was dithering - I skipped every second pixel and used greysc
 Sometimes simple is better.  I took this one literally and made a simple rocket with three shapes.  The difference between BuildBee MakeCode and some of the other code-cad like programs is that handy layout utilities have been added - like `stack shapes`.  This saves you time when you just want things to sit on top of one another.  You can also change the axis so that you can stack in X, Y or Z (up).
 
 ![Genuary 3](./genuary-3-blocks.png?raw=true)
+![Genuary 3](./genuary-3.png?raw=true)
+
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-4LcxjC)
 
