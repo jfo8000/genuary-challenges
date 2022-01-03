@@ -2,8 +2,9 @@
 
 Hi I'm JFo, one of the authors of BuildBee MakeCode, a 3d printing coding editor based on the Microsoft MakeCode platform.  Heavily inspired from OpenSCAD and JSCad, BuildBee MakeCode is a Constructive Scene Geometry (CSG) editor that can be coded in blocks, TypeScript (JavaScript) or a subset of python (Static Python).
 
-I thought I'd celebrate Genuary by show some of the more crazier things you can do with BuildBee MakeCode.
+I thought I'd celebrate Genuary by show some of the more crazier things you can do with [BuildBee MakeCode](https://makecode.buildbee.com).
 
+BuildBee MakeCode is a free code editor provided as a service to the 3d printing community by the team at [BuildBee](https://buildbee.com)
 
 ## Genurary 1 - Draw 10,000 of something. 
 
@@ -53,7 +54,7 @@ Don't try to print this one unless you add in a base plate - otherwise you'll be
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-Ow3FEb)
 
 
-Genuary 5 - Destroy a square
+## Genuary 5 - Destroy a square
 
 Ok this one is not fair because there are SO many things you can do with squares and cubes in BuildBee MakeCode
 
