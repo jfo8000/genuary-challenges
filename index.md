@@ -4,7 +4,7 @@ Hi I'm JFo, one of the authors of BuildBee MakeCode, a 3d printing coding editor
 
 I thought I'd celebrate Genuary by show some of the more crazier things you can do with [BuildBee MakeCode](https://makecode.buildbee.com).
 
-BuildBee MakeCode is a free code editor provided as a service to the 3d printing community by the team at [BuildBee](https://buildbee.com)
+BuildBee MakeCode is a free, open source code editor provided as a service to the 3d printing community by the team at [BuildBee](https://buildbee.com)
 
 ## Genurary 1 - Draw 10,000 of something. 
 
