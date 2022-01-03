@@ -53,5 +53,18 @@ Don't try to print this one unless you add in a base plate - otherwise you'll be
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-Ow3FEb)
 
 
+Genuary 5 - Destroy a square
+
+Ok this one is not fair because there are SO many things you can do with squares and cubes in BuildBee MakeCode
+
+Here's a little known twist option to the linear extrude - you can only use linear and rotate extrusions with 2d shapes. 
+
+
+![Genuary 5](./genuary-5-rotate-extrude.png?raw=true)
+![Genuary 5](./genuary-5-extrude-blocks.png?raw=true)
+
+[Try it in BuildBee MakeCode!]https://makecode.buildbee.com/proj-Ul2uQl)
+
+
 
 
