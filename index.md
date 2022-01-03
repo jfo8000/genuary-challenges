@@ -58,14 +58,24 @@ Don't try to print this one unless you add in a base plate - otherwise you'll be
 
 Ok this one is not fair because there are SO many things you can do with squares and cubes in BuildBee MakeCode
 
-Here's a little known twist option to the linear extrude - you can only use linear and rotate extrusions with 2d shapes. 
+Here's a little known twist option to the linear extrude! 
 
+What is it all doing?  For 2D shapes you can extrude (give a third dimension, like thickness).  Typically there are two kinds of extrusions - linear (just give thickness to the thing) and rotation.  There is a little known "twist" option to the linear extrude - this will take a step and then twist - and connect your square to the previous square, then take a step and twist again.... until it gets to the total amount of degrees you specify. If you want more detail in your twists - specify more steps.
+
+
+Note, you can only use linear and rotate extrusions with 2d shapes. 
 
 ![Genuary 5](./genuary-5-rotate-extrude.png?raw=true)
 ![Genuary 5](./genuary-5-extrude-blocks.png?raw=true)
 
+
 [Try it in BuildBee MakeCode!]https://makecode.buildbee.com/proj-Ul2uQl)
 
+
+How about destroying it by surrounding it with 12 sided polygons?
+
+![Genuary 5](./genuary-5-destroy2.png?raw=true)
+![Genuary 5](./genuary-5-destroy2-blocks.png?raw=true)
 
 
 
