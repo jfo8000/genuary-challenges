@@ -1,7 +1,7 @@
 # Genuary challenges!
 
 
-## Genurary 1 - Draw 10,000 of something. {#gen1}
+## Genurary 1 - Draw 10,000 of something. 
 
 What could be the worst way to draw a cube?  With 10,000 dodecahedrons of course!  BuildBee MakeCode has automatic loop protection to protect you from going too crazy with shape generation and burning your browser to the ground.  What a great way to test that.
 
@@ -10,7 +10,7 @@ What could be the worst way to draw a cube?  With 10,000 dodecahedrons of course
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-9saTYL)
 
 
-## Genurary 2 - Dithering. {#gen2}
+## Genurary 2 - Dithering.
 
 Dithering.  Well this was a bit of a challenge to pull in image data, but I've always been amazed how MakeCode Arcade encodes 8 bit color for devices using a special string that goes 0-f for each bit.  Every row is it's own row of image data.  Pretty clever design.  
 
