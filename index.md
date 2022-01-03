@@ -104,7 +104,8 @@ So to trade styles with a friend, [I give you this example to play with](https:/
 ## Genuary 7 - Sol Lewitt Wall Painting
 The rules for this one are very simple:
 
-```On a wall surface, any
+```
+On a wall surface, any
 continuous stretch of wall,
 using a hard pencil, place
 fifty points at random.
