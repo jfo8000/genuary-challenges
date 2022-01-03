@@ -80,3 +80,25 @@ How about destroying it by surrounding it with 12 sided polygons?
 
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-3v6Prt)
 
+
+## Genuary 6 - Trade Styles - Chamfer and Fillet
+
+One of the features usually left to more powerful CAD programs is the ability to round off the edges.  This is incredibly important for designing stress relief as well as removing any sharp corners that may cause injury when handling a 3d printed part.   Also adding a slight chamfer to the bottom of your part can make it easier to remove from the print bed after printing. 
+
+So to trade styles with a friend, [I give you this example to play with](https://makecode.buildbee.com/proj-LIx9DN)!  To chamfer something cuts it off at a straight angle, but to fillet it - you give it a rounded edge. In BuildBee MakeCode, you can style the tops and bottoms of your part.  If you need to apply the style in another axis, simply rotate the part and add another style edges block.
+
+![Genuary 6](./genuary-6-blocks.png?raw=true)
+
+*example of chamfer*
+
+![Genuary 6](./genuary-6-fillet.png?raw=true)
+
+*example of fillet*
+
+![Genuary 6](./genuary-6.png?raw=true)
+
+
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-LIx9DN)
+
+
+
