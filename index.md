@@ -36,3 +36,22 @@ Sometimes simple is better.  I took this one literally and made a simple rocket 
 
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-4LcxjC)
 
+
+## Genuary 4 - Flow fields
+
+This one tested me a bit. I don't know much about flow fields so I decided to port this implementation to show off the Extra Math category of BuildBee MakeCode.  Extra Math has utilities for converting radians to degress, and lets you block code with sin/cos/and PI easily.
+
+With the power of the MakeCode engine, it's straight forward to port over JavaScript examples.  I wrote some of this in the blocks editor, but dropped down to the JavaScript (TypeScript) editor to make a few handy edits.
+
+[Thanks to Keith Peters for this flow fields tutorial](https://github.com/bit101/tutorials/blob/master/flow_fields/flow_fields_03.js)
+
+Don't try to print this one unless you add in a base plate - otherwise you'll be just decorating your build plate with filament!
+
+![Genuary 4](./genuary-4-blocks.png?raw=true)
+![Genuary 4](./genuary-4.png?raw=true)
+
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-4LcxjC)
+
+
+
+
