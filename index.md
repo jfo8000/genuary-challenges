@@ -120,9 +120,14 @@ Originally I messed this up by not evenly distributing my points.   The techniqu
 Although perhaps we need exponents!
 
 
+* just random points *
 ![Genuary 7](./genuary-7.png?raw=true)
 
+* evenly random points *
+![Genuary 7](./genuary-7-evenly-distributed.png?raw=true)
 
-[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-CUeGJB)
+The other neat thing about this one is the use of "parameters" instead of variables.  These show up in the little form inside the simulator - and lets the user choose settings - maybe 50 points is not enough - or the wall should be bigger.  Dont do what I just did and set the `wallSize` to `0`, you'll be scratching your head why there's nothing there. 
+
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-Oyub_P)
 
 
