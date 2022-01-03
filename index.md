@@ -69,7 +69,7 @@ Note, you can only use linear and rotate extrusions with 2d shapes.
 ![Genuary 5](./genuary-5-extrude-blocks.png?raw=true)
 
 
-[Try it in BuildBee MakeCode!]https://makecode.buildbee.com/proj-Ul2uQl)
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-Ul2uQl)
 
 
 How about destroying it by surrounding it with 12 sided polygons?
@@ -77,5 +77,5 @@ How about destroying it by surrounding it with 12 sided polygons?
 ![Genuary 5](./genuary-5-destroy2.png?raw=true)
 ![Genuary 5](./genuary-5-destroy2-blocks.png?raw=true)
 
-
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-3v6Prt)
 
