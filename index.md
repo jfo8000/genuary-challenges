@@ -1,5 +1,9 @@
 # Genuary challenges!
 
+Hi I'm JFo, one of the authors of BuildBee MakeCode, a 3d printing coding editor based on the Microsoft MakeCode platform.  Heavily inspired from OpenSCAD and JSCad, BuildBee MakeCode is a Constructive Scene Geometry (CSG) editor that can be coded in blocks, TypeScript (JavaScript) or a subset of python (Static Python).
+
+I thought I'd celebrate Genuary by show some of the more crazier things you can do with BuildBee MakeCode.
+
 
 ## Genurary 1 - Draw 10,000 of something. 
 
@@ -18,6 +22,15 @@ So I hopped over to arcade.makecode.com and grabbed their background image, then
 
 Cause the challenge was dithering - I skipped every second pixel and used greyscale by using hex values like `#FFF` (for white), `#000` (for black) 
 
+![Genuary 2](./genuary-2-arcade.png?raw=true)
 ![Genuary 2](./genuary-2.png?raw=true)
 
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-gNhnPD)
+
+## Genuary 3 - Space
+
+Sometimes simple is better.  I took this one literally and made a simple rocket with three shapes.  The difference between BuildBee MakeCode and some of the other code-cad like programs is that handy layout utilities have been added - like `stack shapes`.  This saves you time when you just want things to sit on top of one another.  You can also change the axis so that you can stack in X, Y or Z (up).
+
+![Genuary 3](./genuary-3-blocks.png?raw=true)
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-4LcxjC)
+
