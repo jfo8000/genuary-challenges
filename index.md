@@ -134,3 +134,17 @@ The other neat thing about this one is the use of "parameters" instead of variab
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-Oyub_P)
 
 
+## Genuary 8 - Single Curve Only
+
+This one was actually made by James, who I said to last year - hey can you make me a really cool function with hexagons?
+
+I am glad to have the chance to show this one off.
+
+![Genuary 8](./genuary-8.png?raw=true)
+
+This one was so cool I also had the guys make up a [T-shirt / Laptop sticker](https://www.redbubble.com/i/sticker/BuildBee-MakeCode-Hex-Wave-by-BuildBee/65210252.EJUG5) - which his high praise for a mathematical function!
+
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-ISz_jK)
+
+
+
