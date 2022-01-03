@@ -47,10 +47,10 @@ With the power of the MakeCode engine, it's straight forward to port over JavaSc
 
 Don't try to print this one unless you add in a base plate - otherwise you'll be just decorating your build plate with filament!
 
-![Genuary 4](./genuary-4-blocks.png?raw=true)
 ![Genuary 4](./genuary-4.png?raw=true)
+![Genuary 4](./genuary-4-blocks.png?raw=true)
 
-[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-4LcxjC)
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-Ow3FEb)
 
 
 
