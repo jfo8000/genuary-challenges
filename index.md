@@ -165,7 +165,7 @@ To model the vertical posts, I used cube shapes, and then intersected them with 
 
 ## Genuary 12 - Packing
 
-Whenever we finish a big project, the team celebrates with donuts. But there is so much inter ronal fragmentation (wasted space) inside a box of donuts.  I vote that all donuts should be packed concentrically.
+Whenever we finish a big project, the team celebrates with donuts. But there is so much inter internal fragmentation (wasted space) inside a box of donuts.  I vote that all donuts should be packed concentrically.
 
 ![Genuary 12](./genuary-12.png?raw=true)
 
