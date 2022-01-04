@@ -175,11 +175,14 @@ Whenever we finish a big project, the team celebrates with donuts. But there is 
 
 This was a challenge, because unless you've got a belt printer, the largest you should really make something is probably around 220mm. So I thought I hadn't shown off rotate extrude.  I rotated these 2d shapes 800 degrees and gave them all 80 faces.  It's a bit contrived, but what I've learned is that the editor doesn't like it if you dont rotate at least 360 degrees.  Sounds like something to look at in the future(!)
 
+*rotate extrude rotates flat shapes profiles to form a 3d shape*
+
 ![Genuary 13](./genuary-13-blocks.png?raw=true)
 
 ![Genuary 13](./genuary-13.png?raw=true)
 
 *what it looks like before rotate extrude*
+
 ![Genuary 13](./genuary-13-2d-shape.png?raw=true)
 
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-9MCIq1)
