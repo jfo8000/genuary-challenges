@@ -231,3 +231,47 @@ Note BuildBee MakeCode does not export color information as the STL file format 
 
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-oUZwYq)
 
+
+## Genuary 17 - Three Colors
+
+For this one I thought I would try to make an artists pallette.   However the shape is actually quite tricky to make.  I have approximated it using ellipses.  But there's just one problem: BuildBee MakeCode does not have an ellipse shape.
+
+This is where the power of wrap shapes comes in.  I can place cubes, spheres or whatever I like in a pattern and then call the "wrap shapes" method to turn it solid.  
+
+*drop cubes using the equation of an ellipse, then wrap*
+
+![Genuary 17](./genuary-17-wrapshapes.png?raw=true)
+
+
+Using the parametric equation for an ellipse you can calculate where the cubes should go
+``` 
+x = rx * sin(t)
+y = ry * cos(t)
+```
+
+To calculate t, I work out how many points I want (these will become faces, or sides). 
+
+Then I use a loop to loop through the total number of faces, calculating how many degrees to go through.  
+```
+t = percentOfTheWayThrough * 360
+```      
+
+With the Extra Math category I can just deal in degrees and not worry about converting to radians.  It's very handy.
+
+*who said you'd never use the equation for an ellipse in school?*
+
+![Genuary 17](./genuary-17-blocks.png?raw=true)
+
+
+*three colors, but every shape is an ellipse*
+
+![Genuary 17](./genuary-17.png?raw=true)
+
+
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-djhFJl)
+
+
+
+
+
+
