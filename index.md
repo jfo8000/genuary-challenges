@@ -186,3 +186,15 @@ This was a challenge, because unless you've got a belt printer, the largest you 
 ![Genuary 13](./genuary-13-2d-shape.png?raw=true)
 
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-9MCIq1)
+
+
+
+## Genuary 14 - Something you'd never make
+
+Matt made a version of the [Utah teapot in BuildBee MakeCode](https://makecode.buildbee.com/proj-officialUtahTeapot) by cleverly using the wrap shapes block to create more organic looking shapes.  This algorithm is based upon the quick hull algorithm - which is normally used in collision detection in video games to quickly see if an object has been "hit". 
+
+I have remixed his project here to create a design inspired by the book [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) by Donald Norman.  This is one of my favourite reads about the importance of user centered design.  It is where I first learned that if something is hard to work out how to use, then the problem is the design, not the user.  (:: [totally not looking at you at Blender](https://www.giudansky.com/illustration/infographics/blender-map) ::) :rofl:
+
+![Genuary 14](./genuary-14.png?raw=true)
+
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-fDyFFT)
