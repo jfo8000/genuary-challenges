@@ -198,3 +198,23 @@ I have remixed his project here to create a design inspired by the book [The Des
 ![Genuary 14](./genuary-14.png?raw=true)
 
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-fDyFFT)
+
+
+## Genuary 15 - Sand
+
+One of my pet features in BuildBee MakeCode is the ability to cut standard size threads.  We have even included the thread for a 2 liter soda bottle, which means you can easily make a double sided connector to build your own sand timer.  
+
+I haven't had the time to print this one yet but [here is just the double soda bottle connector](https://makecode.buildbee.com/proj-aK4Fn4) which should be 3d printable.  I used a similar concept to make a mentos loader for a diet-cola nucleation fountain, which I can't wait to show off at some point too.
+
+The idea with threads is that you take a cylinder (or any other shape) and you subtract a thread cutting tap from it.  
+
+If you want to add standard size threads to something use the thread version of the block instead!  What I really am excited about is the idea of easily making functional 3D printed parts that work with other household objects.
+
+![Genuary 15](./genuary-15.png?raw=true)
+
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-lpQqUA)
+
+
+
+
+
