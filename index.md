@@ -6,6 +6,8 @@ I thought I'd celebrate Genuary by show some of the more crazier things you can 
 
 BuildBee MakeCode is a free, open source code editor provided as a service to the 3d printing community by the team at [BuildBee](https://buildbee.com)
 
+Special thanks to [Genuary](https://genuary.art) for the [#Genuary2022 prompts](http://genuary.art/prompts)
+
 ## Genurary 1 - Draw 10,000 of something. 
 
 What could be the worst way to draw a cube?  With 10,000 dodecahedrons of course!  BuildBee MakeCode has automatic loop protection to protect you from going too crazy with shape generation and burning your browser to the ground.  What a great way to test that.
@@ -146,5 +148,15 @@ This one was so cool I also had the guys make up a [T-shirt / Laptop sticker](ht
 
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-ISz_jK)
 
+## Genuary 9 - Architecture
 
+I went with a simplified model of the iconic Sydney Harbour Bridge.  Completed in 1932, "the coathanger" like design connects North Sydney to the rest of the city, and features an amusement park at its base on the northern side.  You can walk across the bridge, and on top of the arch of bridge - both of which are great fun.
+
+![Genuary 9](./genuary-9.png?raw=true)
+
+To model the vertical posts, I used cube shapes, and then intersected them with an arc to cut them at the correct height.  Intersection in CSG means to only leave behind the shapes that overlap. 
+
+![Genuary 9](./genuary-9-intersect.png?raw=true)
+
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-84IfP-)
 
