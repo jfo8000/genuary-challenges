@@ -214,7 +214,7 @@ If you want to add standard size threads to something use the thread version of 
 
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-lpQqUA)
 
-## Genuary 15 - Color gradients gone wrong
+## Genuary 16 - Color gradients gone wrong
 
 The other night I saw a post on social media of a tiny fly sitting aloft a gorgeous painting with the caption "Is this fly bothering anyone else but me". 
 
