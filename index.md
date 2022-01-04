@@ -154,7 +154,7 @@ I went with a simplified model of the iconic Sydney Harbour Bridge.  Completed i
 
 ![Genuary 9](./genuary-9.png?raw=true)
 
-To model the vertical posts, I used cube shapes, and then intersected them with an arc to cut them at the correct height.  Intersection in CSG means to only leave behind the shapes that overlap. 
+To model the vertical posts, I used cube shapes, and then intersected them with an arc to cut them at the correct height.  Intersection in CSG means to only leave behind the overlapping parts of the shape. 
 
 ![Genuary 9](./genuary-9-intersect.png?raw=true)
 
