@@ -216,15 +216,18 @@ If you want to add standard size threads to something use the thread version of 
 
 ## Genuary 16 - Color gradients gone wrong
 
-The other night I saw a post on social media of a tiny fly sitting aloft a gorgeous painting with the caption "Is this fly bothering anyone else but me". 
+The other night I saw a post on social media of a tiny fly sitting aloft a gorgeous painting with the caption "Is this fly bothering anyone else but me?". 
 
-So I have entitled my work **Is this fly bothering anyone else but me**
+So I have entitled my work, "Is this fly bothering anyone else but me?"
 
 It uses the hue block to set the color of the shape using the HSL color scale.  Hue (H) stands for the the color on the color wheel (which is why it is in degrees in the block).  Saturation is how much grey to add to the color - this is a 0-1 scale.  Lightness is how much white to add to the color - this is also a 0-1 scale.  You'll find in different frameworks that these might all be values out of 255 or 0-1, and it's super annoying.  But basically if you understand the concept it's pretty easy to convert from one system to another.  Under the covers, BuildBee MakeCode uses a framework called [chroma-js](https://vis4.net/chromajs/) - which is a fabulous framework for performing math on colors.  
 
 Note BuildBee MakeCode does not export color information as the STL file format it uses for export only contains geometry information.  In various 3D file formats you will find that colors and textures are all stored in variously incompatible ways.  The 3MF file format is amazing for storing multiple parts of model information - geometries, textures - all in (essentially a zipped XML file format.). I am excited that this format is increasing in popularity as it solves several model storage problems the legacy formats all have.  On my future wishlist is to get all the colors out, so watch this space. For now the colors add interest and help debug. 
 
+*Is this fly bothering anyone else but me?* 
+
 ![Genuary 16](./genuary-16.png?raw=true)
+
 
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-oUZwYq)
 
