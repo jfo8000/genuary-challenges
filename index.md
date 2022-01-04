@@ -156,7 +156,30 @@ I went with a simplified model of the iconic Sydney Harbour Bridge.  Completed i
 
 To model the vertical posts, I used cube shapes, and then intersected them with an arc to cut them at the correct height.  Intersection in CSG means to only leave behind the overlapping parts of the shape. 
 
+*using intersect to cut the posts at the right height*
+
 ![Genuary 9](./genuary-9-intersect.png?raw=true)
 
 [Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-84IfP-)
 
+
+## Genuary 12 - Packing
+
+Whenever we finish a big project, the team celebrates with donuts. But there is so much inter ronal fragmentation (wasted space) inside a box of donuts.  I vote that all donuts should be packed concentrically.
+
+![Genuary 12](./genuary-12.png?raw=true)
+
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-fDyFFT)
+
+## Genuary 13 - 80x800
+
+This was a challenge, because unless you've got a belt printer, the largest you should really make something is probably around 220mm. So I thought I hadn't shown off rotate extrude.  I rotated these 2d shapes 800 degrees and gave them all 80 faces.  It's a bit contrived, but what I've learned is that the editor doesn't like it if you dont rotate at least 360 degrees.  Sounds like something to look at in the future(!)
+
+![Genuary 13](./genuary-13-blocks.png?raw=true)
+
+![Genuary 13](./genuary-13.png?raw=true)
+
+*what it looks like before rotate extrude*
+![Genuary 13](./genuary-13-2d-shape.png?raw=true)
+
+[Try it in BuildBee MakeCode!](https://makecode.buildbee.com/proj-9MCIq1)
